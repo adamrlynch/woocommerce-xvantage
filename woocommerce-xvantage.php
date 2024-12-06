@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WooCommerce Xvantage
  * Description: Populates WooCommerce product catalog from an external source using the Xvantage API.
- * Version: 1.0
+ * Version: 0.1.0
  * Author: Adam Lynch
  * Text Domain: woocommerce-xvantage
  */
